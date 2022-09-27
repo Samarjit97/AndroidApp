@@ -6,12 +6,12 @@ Android:
 
 User Story
 
-As a user I want to have my account for booking the scooter so that I can use the facility several times.
+ - [ ] As a user I want to have my account for booking the scooter so that I can use the facility several times.
 
-As a user I want to know the location of the stations and so that I can know from where to where I can book the scooter (arrival and departure points).
+- [ ] As a user I want to know the location of the stations and so that I can know from where to where I can book the scooter (arrival and departure points).
 
-As a user I want to know the cost of use of the scooter so that I would I have the basic knowledge about the consumption to use.
+- [ ]  As a user I want to know the cost of use of the scooter so that I would I have the basic knowledge about the consumption to use.
 
-As a user I want to know the availability of the scooter so that booking could be easier.
+- [ ] As a user I want to know the availability of the scooter so that booking could be easier.
 
-As a user I want to know that how many kilometers I can drive a scooter.
+- [ ] As a user I want to know that how many kilometers I can drive a scooter.
